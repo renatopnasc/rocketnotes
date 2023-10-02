@@ -15,7 +15,7 @@ export const Container = styled.div`
   margin-bottom: 0.8rem;
 
   border-radius: 1rem;
-  padding-inline: 1.6rem;
+  padding-right: 1.6rem;
 
   > button {
     border: none;
@@ -36,7 +36,7 @@ export const Container = styled.div`
     height: 5.6rem;
     width: 100%;
 
-    padding: 0.2rem;
+    padding: 1.2rem;
     color: ${({ theme }) => theme.COLORS.WHITE};
     background: transparent;
     border: none;
